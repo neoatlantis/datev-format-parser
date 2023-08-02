@@ -1,0 +1,11 @@
+{
+  "name": "datev-format-parser",
+  "version": "0.0.1",
+  "description": "A 3rd party parser for DATEV file format. This library is not affliated with DATEV in any means.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NeoAtlantis",
+  "license": "MIT"
+}
